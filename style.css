@@ -1,4 +1,7 @@
 /* Layout */
+body{
+ backgorund-color:#9c27b0d4;   
+}
 .main {
     display: flex;
     padding: 2em;
